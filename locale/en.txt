@@ -1,0 +1,43 @@
+#: locale=en
+
+## Tour
+
+### Description
+
+### Title
+tour.name = Untitled 1
+
+## Media
+
+### Title
+media_B81863C5_B2C4_ACB8_41D3_236B7C6AC92A.label = Grey_2
+panorama_40B2404D_5415_C0FD_41B1_C8DA6EDEBC5F.label = kisalli_tiskaus_01
+panorama_425DAAFA_547B_C1A7_41BF_EFCDB4160BEB.label = kisalli_etupuoli_02
+panorama_4978C918_6921_7B41_41C2_6C8A53612300.label = syömälä
+panorama_5FEA495C_542F_C09D_41C4_6D65A2BCC9BB.label = kisalli_etupuoli_01c
+panorama_707836E9_69E6_F6C3_41B0_FE751630D00E.label = välikkö 3
+panorama_70A8A718_69E1_D742_41C3_861F8FB75182.label = kisalli_jäähdytin auki_01
+panorama_7249D340_69FE_CFC2_41BE_ED5C4684F6CE.label = preppaus1_a
+panorama_72C1C86F_69E1_79DF_41B4_FC333C0C79DA.label = ruuan pakkausta
+panorama_73186065_69FE_C9C2_41C7_88618C106EAC.label = välikkö 2
+panorama_743B84A8_6923_4941_41C3_002AC5DA61CE.label = kisalli_kylmiot_02
+panorama_74A84CE4_69EE_DAC1_41C1_48C11297AE77.label = varasto
+panorama_74FF7B0D_69E1_DF43_41AB_C0AAACF1B00D.label = paineuuni
+panorama_759F7FAA_69E3_D741_41CF_AE83F2E1ED89.label = välikkö1_b
+panorama_75FF2871_69E1_79C3_41A2_184413371AF3.label = palautus1_a
+panorama_789C735E_6921_4FFE_41C7_03B3EFCE7464.label = Etu3_a
+panorama_78DF9494_6921_4941_41D2_FB8530848158.label = etu5_a
+panorama_7A400F98_692E_D742_41D9_A0BFDBB30FF3.label = Etu4
+panorama_7AE518F7_695F_DACF_41BB_773972648C46.label = kisalli_tiskaus_02
+panorama_7AECAE52_6921_D9C1_41D6_4FF46862B943.label = Etu2
+panorama_7F628DD2_6921_5AC1_41AA_C21170B31D07.label = kisalli_veitset_01a
+video_9C6728EF_8DFC_479A_41DF_F32C9A53D361.label = kisalli_cafe_video
+
+## Popup
+
+### Body
+htmlText_44971D63_54EB_C0A5_41A9_6CEE8CBBD869.html = <div style="text-align:left; color:#000; "><HTML><BODY><DIV STYLE="text-align:left;font-size:20px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffcc99;font-size:20px;"><B>Keittiön hygieniasta täytyy pitää tarkkaa huolta.</B></SPAN></SPAN></DIV></BODY></HTML></div>
+htmlText_494EC5CC_542C_43E3_4166_8C9AF72C855E.html = <div style="text-align:left; color:#000; "><HTML><BODY><DIV STYLE="text-align:left;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;">Vallitsevan koronatilanteen takia keittiöissä ovat yleistyneet etämaksupäätteet. Asiakas voi maksaa ja hakea ruokansa asioimatta kasvokkain henkilökunnan kanssa.</SPAN></DIV></BODY></HTML></div>
+
+### Title
+window_4F54E05A_5474_40E4_41D4_83785572F02C.title = Keittiön siivous
