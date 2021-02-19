@@ -4,23 +4,23 @@
     <title>VRFastTrack // Ravintola</title>
     <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
     <meta name="viewport" id="metaViewport" content="user-scalable=no, initial-scale=1, width=device-width, viewport-fit=cover" data-tdv-general-scale="0.5"/>
-    <link rel="preload" href="locale/en.txt?v=1613720717562" as="fetch" crossorigin="anonymous"/>
-	<link rel="preload" href="script.js?v=1613720717562" as="script"/>
-	<link rel="preload" href="media/panorama_8CC8237E_870E_071E_41C9_5BB8262AE4BD_0/r/3/0_0.jpg?v=1613720717562" as="image"/>
-	<link rel="preload" href="media/panorama_8CC8237E_870E_071E_41C9_5BB8262AE4BD_0/l/3/0_0.jpg?v=1613720717562" as="image"/>
-	<link rel="preload" href="media/panorama_8CC8237E_870E_071E_41C9_5BB8262AE4BD_0/u/3/0_0.jpg?v=1613720717562" as="image"/>
-	<link rel="preload" href="media/panorama_8CC8237E_870E_071E_41C9_5BB8262AE4BD_0/d/3/0_0.jpg?v=1613720717562" as="image"/>
-	<link rel="preload" href="media/panorama_8CC8237E_870E_071E_41C9_5BB8262AE4BD_0/f/3/0_0.jpg?v=1613720717562" as="image"/>
-	<link rel="preload" href="media/panorama_8CC8237E_870E_071E_41C9_5BB8262AE4BD_0/b/3/0_0.jpg?v=1613720717562" as="image"/>
+    <link rel="preload" href="locale/en.txt?v=1613722322041" as="fetch" crossorigin="anonymous"/>
+	<link rel="preload" href="script.js?v=1613722322041" as="script"/>
+	<link rel="preload" href="media/panorama_8CC8237E_870E_071E_41C9_5BB8262AE4BD_0/r/3/0_0.jpg?v=1613722322041" as="image"/>
+	<link rel="preload" href="media/panorama_8CC8237E_870E_071E_41C9_5BB8262AE4BD_0/l/3/0_0.jpg?v=1613722322041" as="image"/>
+	<link rel="preload" href="media/panorama_8CC8237E_870E_071E_41C9_5BB8262AE4BD_0/u/3/0_0.jpg?v=1613722322041" as="image"/>
+	<link rel="preload" href="media/panorama_8CC8237E_870E_071E_41C9_5BB8262AE4BD_0/d/3/0_0.jpg?v=1613722322041" as="image"/>
+	<link rel="preload" href="media/panorama_8CC8237E_870E_071E_41C9_5BB8262AE4BD_0/f/3/0_0.jpg?v=1613722322041" as="image"/>
+	<link rel="preload" href="media/panorama_8CC8237E_870E_071E_41C9_5BB8262AE4BD_0/b/3/0_0.jpg?v=1613722322041" as="image"/>
 	<meta name="description" content="Virtual Tour"/>
 	<meta name="theme-color" content="#FFFFFF"/>
-    <script src="lib/tdvplayer.js?v=1613720717562"></script>
-    <script src="script.js?v=1613720717562"></script>
+    <script src="lib/tdvplayer.js?v=1613722322041"></script>
+    <script src="script.js?v=1613722322041"></script>
     <script type="text/javascript">
         (function()
         {
             var deviceType = TDV.PlayerAPI.mobile ? 'mobile' : 'general';
-            var devicesUrl = {"general":"script_general.js?v=1613720717562"};
+            var devicesUrl = {"general":"script_general.js?v=1613722322041"};
             var url = deviceType in devicesUrl ? devicesUrl[deviceType] : devicesUrl['general'];
             if(typeof url == "object") {
                 var orient = TDV.PlayerAPI.getOrientation();
@@ -45,11 +45,11 @@
 
             var settings = new TDV.PlayerSettings();
             settings.set(TDV.PlayerSettings.CONTAINER, document.getElementById('viewer'));
-            settings.set(TDV.PlayerSettings.WEBVR_POLYFILL_URL, 'lib/WebVRPolyfill.js?v=1613720717562');
-            settings.set(TDV.PlayerSettings.HLS_URL, 'lib/Hls.js?v=1613720717562');
-            settings.set(TDV.PlayerSettings.QUERY_STRING_PARAMETERS, 'v=1613720717562');
+            settings.set(TDV.PlayerSettings.WEBVR_POLYFILL_URL, 'lib/WebVRPolyfill.js?v=1613722322041');
+            settings.set(TDV.PlayerSettings.HLS_URL, 'lib/Hls.js?v=1613722322041');
+            settings.set(TDV.PlayerSettings.QUERY_STRING_PARAMETERS, 'v=1613722322041');
 
-            var devicesUrl = {"general":"script_general.js?v=1613720717562"};
+            var devicesUrl = {"general":"script_general.js?v=1613722322041"};
 
             tour = new TDV.Tour(settings, devicesUrl);
             tour.bind(TDV.Tour.EVENT_TOUR_INITIALIZED, onVirtualTourInit);
