@@ -30,7 +30,7 @@ video_9C6728EF_8DFC_479A_41DF_F32C9A53D361.label = kisalli_cafe_video
 ## Hotspot
 
 ### Tooltip
-HotspotPanoramaOverlayArea_88CF621E_872D_D100_41D5_6DA3A6BFCD67.toolTip = Kurkkaa palvelutekstin taakse
+HotspotPanoramaOverlayArea_88CF621E_872D_D100_41D5_6DA3A6BFCD67.toolTip = Kurkkaa palvelutiskin taakse
 HotspotPanoramaOverlayArea_88E70D7C_873C_D307_41C4_DE48018B756F.toolTip = Siirry eteenpäin
 HotspotPanoramaOverlayArea_88F3AD86_873C_D300_41B3_2109E34C01F2.toolTip = Tiskausalueelle
 HotspotPanoramaOverlayArea_88F45D80_873C_D3FF_41BA_FFE82E4D5403.toolTip = Siirry eteenpäin
