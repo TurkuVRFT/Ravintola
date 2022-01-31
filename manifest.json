@@ -1,8 +1,8 @@
 {
- "background_color": "#FFFFFF",
- "start_url": "index.htm?installed=true",
- "name": "VRFastTrack // Ravintola",
  "theme_color": "#FFFFFF",
+ "name": "VRFastTrack // Ravintola",
+ "display": "fullscreen",
+ "background_color": "#FFFFFF",
  "icons": [
   {
    "type": "image/png",
@@ -40,5 +40,5 @@
    "src": "misc/icon16.png"
   }
  ],
- "display": "fullscreen"
+ "start_url": "index.htm?installed=true"
 }
